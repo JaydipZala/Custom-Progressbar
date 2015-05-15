@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/qtm-kaushik/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/qtm-kaushik/workspace/SticknifindKids/ClipAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-cc84d502dadd10bff48227f8be321899e2b4eed9.jar" />
+    </item>
+    <item
+        jar="/home/qtm-kaushik/Downloads/CustomProgressBar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/qtm-kaushik/Downloads/CustomProgressBar/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-7a5832d14ed89afb9a72e379cf0f32b98acddc46.jar" />
+    </item>
+    <item
+        jar="/home/qtm-kaushik/workspace/SticknifindKids/ClipAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/qtm-kaushik/workspace/SticknifindKids/ClipAnimation/app/build/intermediates/pre-dexed/debug/classes-20e7df880cb64800caae68c3890a3657d2302fc7.jar" />
+    </item>
+    <item
+        jar="/home/qtm-kaushik/workspace/SticknifindKids/ClipAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/qtm-kaushik/workspace/SticknifindKids/ClipAnimation/app/build/intermediates/pre-dexed/debug/classes-a99651ed1483d4a4a2385f292353220d00d2f77f.jar" />
+    </item>
+    <item
+        jar="/home/qtm-kaushik/Downloads/CustomProgressBar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/qtm-kaushik/Downloads/CustomProgressBar/app/build/intermediates/pre-dexed/debug/classes-22207bebe75237b83af739ddeff86e72b7a666e1.jar" />
+    </item>
+    <item
+        jar="/home/qtm-kaushik/workspace/SticknifindKids/ClipAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/qtm-kaushik/workspace/SticknifindKids/ClipAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-6b2897b824766e430eb2756654fda135c4981af1.jar" />
+    </item>
+    <item
+        jar="/home/qtm-kaushik/Downloads/CustomProgressBar/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/qtm-kaushik/Downloads/CustomProgressBar/app/build/intermediates/pre-dexed/debug/classes-49525bb0282be674b1faf2ae278398bf23762693.jar" />
+    </item>
+
+</items>
